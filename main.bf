@@ -1,3 +1,17 @@
+
+
+//dear whoever is reading this code ; i have no single idea how tf is this working ;
+// but somehow with enough pointer moving and aaddings it just came to life 
+
+
+
+
+
+
+
+
+
+
 ++++++++[>++++++<-]>+.
 [-]
 ++++[>++++++++++<-]>+.
@@ -40,7 +54,7 @@
 ++++++++++.
 [-]
 ,-------------------------------------------------
-<+>
+<<+>
 [
     <->
     ++++[>++++++++++<-]>-.
