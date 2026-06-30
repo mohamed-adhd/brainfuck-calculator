@@ -232,16 +232,7 @@ For clean numeric output, the program must convert computed values back into pri
 
 ## Why I Built This
 
-> Write your personal note here.
-
-Suggested direction:
-
-```md
-I built this because I wanted to see how far I could push a language that gives you almost nothing.
-A normal calculator is easy. A Brainfuck calculator forces every tiny idea to become memory movement:
-menus, input, branching, arithmetic, ASCII conversion, and output. It was less about practicality and
-more about proving I could make something real inside the most hostile constraints possible.
-```
+> yea i have no reason for building this one repo , i m just a masochist atp i just saw a reel saying " brainfuck is the worst programming language ever!" and yea, here i am
 
 ## Current Status
 
