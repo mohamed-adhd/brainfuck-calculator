@@ -234,18 +234,6 @@ For clean numeric output, the program must convert computed values back into pri
 
 > yea i have no reason for building this one repo , i m just a masochist atp i just saw a reel saying " brainfuck is the worst programming language ever!" and yea, here i am
 
-## Current Status
-
-| Area | Status |
-| --- | --- |
-| Menu output | Working |
-| Operation selection | Working |
-| Addition branch | Implemented |
-| Subtraction branch | Implemented |
-| Multiplication branch | Working and most polished |
-| Division | Not planned for this version |
-| Multi-digit operands | Not supported |
-
 ## Known Limitations
 
 | Limitation | Current state |
