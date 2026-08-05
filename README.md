@@ -45,13 +45,6 @@ That means there are no variables, functions, strings, structs, arrays in the no
 
 The result is a deliberately difficult calculator that supports three arithmetic paths:
 
-| Operation | Status |
-| --- | --- |
-| Addition | Implemented |
-| Subtraction | Implemented |
-| Multiplication | Implemented and most polished |
-| Division | Intentionally not included |
-
 ## Features
 
 <table>
